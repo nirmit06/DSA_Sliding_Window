@@ -1,0 +1,1 @@
+{"name":"Local: count_occurences_of_anagrams","url":"d:\\Sliding_Window\\count_occurences_of_anagrams.cpp","tests":[{"id":1656316946448,"input":"aababaaba\naaba","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\Sliding_Window\\count_occurences_of_anagrams.cpp","group":"local","local":true}

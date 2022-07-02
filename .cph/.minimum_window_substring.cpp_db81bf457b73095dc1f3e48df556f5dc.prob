@@ -1,0 +1,1 @@
+{"name":"Local: minimum_window_substring","url":"d:\\Sliding_Window\\minimum_window_substring.cpp","tests":[{"id":1656584119605,"input":"ADOBECODEBANC\nABC","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\Sliding_Window\\minimum_window_substring.cpp","group":"local","local":true}

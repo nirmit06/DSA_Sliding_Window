@@ -1,0 +1,1 @@
+{"name":"Local: longest_substring_with_k_unique_characters","url":"d:\\Sliding_Window\\longest_substring_with_k_unique_characters.cpp","tests":[{"id":1656424401752,"input":"aabaacba\n3","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\Sliding_Window\\longest_substring_with_k_unique_characters.cpp","group":"local","local":true}
